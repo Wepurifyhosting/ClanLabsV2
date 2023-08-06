@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "clanlabsv2-opensourced",
   "version": "1.0.0",
   "description": "",
@@ -7,7 +6,6 @@
   "directories": {
     "example": "example"
   },
-=======
   "name": "example",
   "version": "1.0.0",
   "description": "",
